@@ -1,0 +1,9 @@
+{
+    "require": {
+        "gebn/brush": "1.*",
+        "tetreum/kat": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {"Hydra\\": "App"}
+    }
+}
